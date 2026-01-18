@@ -12,9 +12,9 @@
 #include <QWidget>
 #include "NetworkClient.h"
 #include "NetworkServer.h"
-#include "chatpanel.h"
-#include "chessboard.h"
-#include "statuspanel.h"
+#include "ChatPanel.h"
+#include "ChessBoard.h"
+#include "StatusPanel.h"
 
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
